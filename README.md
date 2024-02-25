@@ -1,4 +1,4 @@
-👋 **Welcome! I'm Ashir Azeem (@AshirAzeem-Developer)**, a Computer Science enthusiast and certified Front-End Developer with a passion for crafting visually appealing and dynamic web pages. Boasting 2 years of experience with national and international clients, my toolkit includes a solid foundation in HTML, CSS, Bootstrap, and an excellent command of React JS and TailwindCSS, aiming to create seamless, responsive designs.
+👋 **Welcome! I'm Ashir Azeem (@AshirAzeem-Developer)**, a Computer Science Undergraduate and enthusiast also certified Front-End Developer with a passion for crafting visually appealing and dynamic web pages. Boasting 2 years of experience with national and international clients, my toolkit includes a solid foundation in HTML, CSS, Bootstrap, and an excellent command of React JS and TailwindCSS, aiming to create seamless, responsive designs.
 
 👀 **My Passion:** Bringing creative visions to life through innovative web designs. With a focus on user experience, I specialize in developing eye-catching web pages that capture attention and deliver functionality.
 
