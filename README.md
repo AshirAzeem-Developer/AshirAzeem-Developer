@@ -1,14 +1,23 @@
-👋 **Welcome! I'm Ashir Azeem (@AshirAzeem-Developer)**, a Computer Science Undergraduate and enthusiast also certified Front-End Developer with a passion for crafting visually appealing and dynamic web pages. Boasting 2 years of experience with national and international clients, my toolkit includes a solid foundation in HTML, CSS, Bootstrap, and an excellent command of React JS and TailwindCSS, aiming to create seamless, responsive designs.
+🚀 React / React Native Developer | Front-End Enthusiast | Aspiring Full Stack Engineer
 
-👀 **My Passion:** Bringing creative visions to life through innovative web designs. With a focus on user experience, I specialize in developing eye-catching web pages that capture attention and deliver functionality.
+👋 Hi, I'm Ashir Azeem, a passionate React / React Native Developer with a strong background in front-end development and hands-on experience in back-end technologies. I specialize in building scalable web and mobile applications using React.js, Next.js, React Native, TailwindCSS, and Redux Toolkit.
 
-🌱 **Expanding My Horizons:** Currently deepening my knowledge in JavaScript while on a journey to master the MERN stack, enhancing my capabilities to offer full-stack development solutions.
+💡 What I Do
+Develop dynamic and responsive UIs for web and mobile applications
+Build and integrate APIs using Strapi, Express.js, and MongoDB
+Work with modern tools & libraries like TypeScript, Firebase, and OneSignal
+Deliver clean, optimized, and maintainable code
+🚀 Projects & Contributions
+🔹 EZFix – Final Year Project: A service booking mobile app
+🔹 BuyHouseez – A UK-based real estate mobile app
+🔹 QuickWear – Saudi-based e-commerce & delivery platform
+🔹 Freelance & Open-Source Contributions – Always open to collaboration
 
-💞️ **Collaboration Opportunities:** I’m on the lookout for projects that challenge creativity and innovation, especially in crafting unique web landing pages using the latest tools and technologies, including my expertise in React JS and TailwindCSS.
+📌 Tech Stack
+Frontend: React.js, Next.js, React Native, TailwindCSS, Redux Toolkit
+Backend: Strapi, Express.js, MongoDB
+Tools & Platforms: Firebase, Postman, Git/GitHub, WordPress
 
-📫 **Connect With Me:** For collaborations or to share ideas, reach out via Gmail (ashir.dzynr@gmail.com) or Instagram (@ashirazeem6). Let’s explore how we can bring your next project to life!
-
-<!---
-AshirAzeem-Developer/AshirAzeem-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Let's Connect
+💻 GitHub: github.com/AshirAzeem-Developer
+🌐 Portfolio: https://ashirportfolio.vercel.app/
