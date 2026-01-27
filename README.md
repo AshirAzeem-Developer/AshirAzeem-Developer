@@ -25,37 +25,107 @@
 
 <div align="center">
 
-## 🌌 **SYSTEM OVERVIEW** 🌌
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+## 🌌 **ABOUT ME** 🌌
 
 </div>
 
-```yaml
-Developer_Profile:
-  name: "Ashir Azeem"
-  role: "Full-Stack Engineer & Technical Trainer"
-  current_mission: "Architecting scalable solutions & mentoring next-gen developers"
-  experience: "2 years 5 months"
-  education: "BS Computer Science | Bahria University [CGPA: 3.8/4.0]"
-  expertise_level: "Senior Developer"
-  location: "Karachi, Pakistan 🇵🇰"
-  
-  core_competencies:
-    - "End-to-End E-commerce Platforms"
-    - "Cross-Platform Mobile Development"
-    - "RESTful API Architecture"
-    - "Technical Training & Mentorship"
-    - "Secure Authentication Systems"
-    
-  impact_metrics:
-    code_quality: "95% sprint velocity maintained"
-    performance: "30% API response time improvement"
-    ui_consistency: "99% across platforms"
-    bug_reduction: "40% decrease in platform-specific issues"
-    deployment_speed: "2x faster with CI/CD"
-    user_engagement: "40% increase through API integrations"
-```
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 **Profile**
+
+<img src="https://img.shields.io/badge/Name-Ashir_Azeem-00D9FF?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Role-Full--Stack_Engineer-7B68EE?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Experience-2.5+_Years-FF6B6B?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Education-BS_Computer_Science-4ECDC4?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/CGPA-3.8/4.0-00D9FF?style=flat-square&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/Location-Karachi,_Pakistan_🇵🇰-FF6B6B?style=flat-square&labelColor=0a0a0a" />
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 **Mission**
+
+**Architecting scalable solutions & mentoring next-generation developers**
+
+**Current Focus:**
+- Building production-ready applications
+- Training software engineers
+- Full-stack innovation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🚀 **Core Competencies**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/internet.png" width="50"/><br/>
+<b>E-commerce Platforms</b><br/>
+End-to-End Solutions
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/android.png" width="50"/><br/>
+<b>Mobile Development</b><br/>
+Cross-Platform Apps
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/api.png" width="50"/><br/>
+<b>API Architecture</b><br/>
+RESTful Design
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/training.png" width="50"/><br/>
+<b>Technical Training</b><br/>
+Mentorship & Leadership
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="50"/><br/>
+<b>Authentication</b><br/>
+Secure Systems
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 **Impact Metrics**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Code_Quality-95%25_Sprint_Velocity-00D9FF?style=for-the-badge&labelColor=0a0a0a&logo=checkmarx" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Performance-30%25_Faster_APIs-7B68EE?style=for-the-badge&labelColor=0a0a0a&logo=speedtest" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/UI_Consistency-99%25_Cross--Platform-4ECDC4?style=for-the-badge&labelColor=0a0a0a&logo=react" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bug_Reduction-40%25_Decrease-FF6B6B?style=for-the-badge&labelColor=0a0a0a&logo=bugsnag" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Deployment-2x_Speed_Boost-00D9FF?style=for-the-badge&labelColor=0a0a0a&logo=github-actions" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Engagement-40%25_User_Growth-7B68EE?style=for-the-badge&labelColor=0a0a0a&logo=google-analytics" />
+</td>
+</tr>
+</table>
 
 ---
 
