@@ -53,9 +53,8 @@ const developer = {
   education: "BS CS | 3.8/4.0 CGPA",
   
   currentFocus: [
-    "Software Engineering @ ESOLACE TECH",
+    "Gaining Mastery in FullStack",
     "Technical Training @ ITS",
-    "Building Production Systems"
   ],
   
   expertise: {
