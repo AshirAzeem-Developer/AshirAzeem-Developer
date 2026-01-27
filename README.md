@@ -148,7 +148,9 @@ const impact = {
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
   <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/Strapi_CMS-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logoColor=white" />
 </p>
+
 
 ### **DevOps & Tools**
 <p align="center">
