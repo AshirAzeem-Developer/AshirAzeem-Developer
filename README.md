@@ -140,6 +140,7 @@ const impact = {
 ### **CMS & E-Commerce Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,shopify&perline=8" />
+  <img src="https://skillicons.dev/icons?i=shopify&perline=8" />
 </p>
 
 <p align="center">
