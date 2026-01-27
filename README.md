@@ -27,6 +27,8 @@
 
 ## 🌌 **SYSTEM OVERVIEW** 🌌
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
 ```yaml
@@ -37,6 +39,7 @@ Developer_Profile:
   experience: "2 years 5 months"
   education: "BS Computer Science | Bahria University [CGPA: 3.8/4.0]"
   expertise_level: "Senior Developer"
+  location: "Karachi, Pakistan 🇵🇰"
   
   core_competencies:
     - "End-to-End E-commerce Platforms"
@@ -51,6 +54,7 @@ Developer_Profile:
     ui_consistency: "99% across platforms"
     bug_reduction: "40% decrease in platform-specific issues"
     deployment_speed: "2x faster with CI/CD"
+    user_engagement: "40% increase through API integrations"
 ```
 
 ---
@@ -58,6 +62,8 @@ Developer_Profile:
 <div align="center">
 
 ## ⚡ **TECH ARSENAL** ⚡
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 ### **〔 Frontend Mastery 〕**
 
@@ -387,12 +393,37 @@ Udemy 2025
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirazeem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" />
+<img width="66%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashirazeem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&hide=Jupyter%20Notebook,Shell&exclude_repo=repo-to-exclude" />
 </p>
+
+<!-- Alternative: Manual Language Stats -->
+<div align="center">
+
+### 💻 **Most Used Languages**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-38.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-28.3%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-18.7%25-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-8.2%25-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-6.3%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+</div>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ashirazeem&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 </p>
+
+---
+
+<div align="center">
+
+## 📈 **CONTRIBUTION ACTIVITY** 📈
+
+[![Ashir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashirazeem&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashirazeem)
+
+</div>
 
 ---
 
@@ -441,6 +472,8 @@ class FullStackArchitect:
 
 ## 🌐 **CONNECT WITH ME** 🌐
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
 </div>
 
 <p align="center">
@@ -461,6 +494,9 @@ class FullStackArchitect:
 </a>
 <a href="YOUR_PORTFOLIO_LINK" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://twitter.com/ashirazeem" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </p>
 
@@ -515,9 +551,25 @@ class FullStackArchitect:
 
 ### ⚡ **Quick Stats** ⚡
 
-![](https://komarev.com/ghpvc/?username=ashirazeem&color=00D9FF&style=flat-square&label=Profile+Visitors)
-![GitHub followers](https://img.shields.io/github/followers/ashirazeem?style=flat-square&color=00D9FF&labelColor=0a0a0a)
-![GitHub Stars](https://img.shields.io/github/stars/ashirazeem?style=flat-square&color=00D9FF&labelColor=0a0a0a)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ashirazeem&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/ashirazeem?style=for-the-badge&color=00D9FF&labelColor=0a0a0a&logo=github&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/ashirazeem?style=for-the-badge&color=00D9FF&labelColor=0a0a0a&logo=github&label=STARS" alt="Stars" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 **Contribution Snake** 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashirazeem/ashirazeem/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashirazeem/ashirazeem/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashirazeem/ashirazeem/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
