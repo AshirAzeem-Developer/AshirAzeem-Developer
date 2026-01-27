@@ -139,8 +139,8 @@ const impact = {
 
 ### **CMS & E-Commerce Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,shopify&perline=8" />
-  <img src="https://skillicons.dev/icons?i=shopify&perline=8" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="48" />
 </p>
 
 <p align="center">
