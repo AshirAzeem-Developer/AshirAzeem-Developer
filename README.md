@@ -141,7 +141,7 @@ const impact = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress" />
  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg"
+  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/shopify.svg?fill=%2395BF47"
   width="48"
 />
 
